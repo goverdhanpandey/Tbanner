@@ -1,5 +1,5 @@
 # T Banner
-### [+] Created By HTR-TECH (@***tahmid.rayat***)
+### [+] Created By HTR-TECH (@***Pandey GoverdhAn***)
 ### [+] Disclaimer :
 ***T Banner is a tool to Shell & Interface of Termux App.Give A Awesome Look to your Termux App.This Tool is created for Educational Purpose only.***
 
